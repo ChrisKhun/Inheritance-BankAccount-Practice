@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inheritanace_BankAccount
+namespace Inheritanace_BankAccount.Data.Models
 {
     internal interface IAccount
     {
