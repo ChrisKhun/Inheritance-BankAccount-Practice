@@ -1,34 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Coding Projects\\Practice c#\\Inheritance-BankAccount-Practice\\",
+  "WorkspaceRootPath": "F:\\Github Projects\\Inheritance-BankAccount-Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|f:\\coding projects\\practice c#\\inheritance-bankaccount-practice\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|f:\\github projects\\inheritance-bankaccount-practice\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|solutionrelative:app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|f:\\coding projects\\practice c#\\inheritance-bankaccount-practice\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|solutionrelative:services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|f:\\github projects\\inheritance-bankaccount-practice\\services\\mondayserviceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|solutionrelative:services\\mondayserviceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|f:\\coding projects\\practice c#\\inheritance-bankaccount-practice\\services\\savingsaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|solutionrelative:services\\savingsaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|f:\\github projects\\inheritance-bankaccount-practice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|f:\\coding projects\\practice c#\\inheritance-bankaccount-practice\\services\\checkingaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|f:\\github projects\\inheritance-bankaccount-practice\\services\\checkingaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|solutionrelative:services\\checkingaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|f:\\coding projects\\practice c#\\inheritance-bankaccount-practice\\services\\investmentaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|solutionrelative:services\\investmentaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|f:\\coding projects\\practice c#\\inheritance-bankaccount-practice\\data\\bankcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|solutionrelative:data\\bankcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|f:\\coding projects\\practice c#\\inheritance-bankaccount-practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|f:\\github projects\\inheritance-bankaccount-practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|f:\\github projects\\inheritance-bankaccount-practice\\data\\models\\mondayboardmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|solutionrelative:data\\models\\mondayboardmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|f:\\github projects\\inheritance-bankaccount-practice\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|solutionrelative:services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|f:\\github projects\\inheritance-bankaccount-practice\\services\\savingsaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|solutionrelative:services\\savingsaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|f:\\github projects\\inheritance-bankaccount-practice\\services\\investmentaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CBD3D3-1FE1-4890-BB6E-45B5DC855C81}|Inheritanace_BankAccount.csproj|solutionrelative:services\\investmentaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,71 +55,101 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BankContext.cs",
-              "DocumentMoniker": "F:\\Coding Projects\\Practice c#\\Inheritance-BankAccount-Practice\\Data\\BankContext.cs",
-              "RelativeDocumentMoniker": "Data\\BankContext.cs",
-              "ToolTip": "F:\\Coding Projects\\Practice c#\\Inheritance-BankAccount-Practice\\Data\\BankContext.cs",
-              "RelativeToolTip": "Data\\BankContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBYAAAAAAAAAAAAAAA==",
+              "Title": "MondayBoardModels.cs",
+              "DocumentMoniker": "F:\\Github Projects\\Inheritance-BankAccount-Practice\\Data\\Models\\MondayBoardModels.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\MondayBoardModels.cs",
+              "ToolTip": "F:\\Github Projects\\Inheritance-BankAccount-Practice\\Data\\Models\\MondayBoardModels.cs",
+              "RelativeToolTip": "Data\\Models\\MondayBoardModels.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T05:23:53.682Z"
+              "WhenOpened": "2026-03-16T19:54:20.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Github Projects\\Inheritance-BankAccount-Practice\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\Github Projects\\Inheritance-BankAccount-Practice\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-16T16:35:25.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MondayServiceAPI.cs",
+              "DocumentMoniker": "F:\\Github Projects\\Inheritance-BankAccount-Practice\\Services\\MondayServiceAPI.cs",
+              "RelativeDocumentMoniker": "Services\\MondayServiceAPI.cs",
+              "ToolTip": "F:\\Github Projects\\Inheritance-BankAccount-Practice\\Services\\MondayServiceAPI.cs",
+              "RelativeToolTip": "Services\\MondayServiceAPI.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAjwDMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T16:34:20.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckingAccountService.cs",
+              "DocumentMoniker": "F:\\Github Projects\\Inheritance-BankAccount-Practice\\Services\\CheckingAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\CheckingAccountService.cs",
+              "ToolTip": "F:\\Github Projects\\Inheritance-BankAccount-Practice\\Services\\CheckingAccountService.cs",
+              "RelativeToolTip": "Services\\CheckingAccountService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T20:57:20.321Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "App.cs",
-              "DocumentMoniker": "F:\\Coding Projects\\Practice c#\\Inheritance-BankAccount-Practice\\App.cs",
+              "DocumentMoniker": "F:\\Github Projects\\Inheritance-BankAccount-Practice\\App.cs",
               "RelativeDocumentMoniker": "App.cs",
-              "ToolTip": "F:\\Coding Projects\\Practice c#\\Inheritance-BankAccount-Practice\\App.cs",
+              "ToolTip": "F:\\Github Projects\\Inheritance-BankAccount-Practice\\App.cs",
               "RelativeToolTip": "App.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAkwAEAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAjwIEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T01:51:47.79Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "BaseService.cs",
-              "DocumentMoniker": "F:\\Coding Projects\\Practice c#\\Inheritance-BankAccount-Practice\\Services\\BaseService.cs",
+              "DocumentMoniker": "F:\\Github Projects\\Inheritance-BankAccount-Practice\\Services\\BaseService.cs",
               "RelativeDocumentMoniker": "Services\\BaseService.cs",
-              "ToolTip": "F:\\Coding Projects\\Practice c#\\Inheritance-BankAccount-Practice\\Services\\BaseService.cs",
+              "ToolTip": "F:\\Github Projects\\Inheritance-BankAccount-Practice\\Services\\BaseService.cs",
               "RelativeToolTip": "Services\\BaseService.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T21:10:32.537Z"
+              "WhenOpened": "2026-01-05T21:10:32.537Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CheckingAccountService.cs",
-              "DocumentMoniker": "F:\\Coding Projects\\Practice c#\\Inheritance-BankAccount-Practice\\Services\\CheckingAccountService.cs",
-              "RelativeDocumentMoniker": "Services\\CheckingAccountService.cs",
-              "ToolTip": "F:\\Coding Projects\\Practice c#\\Inheritance-BankAccount-Practice\\Services\\CheckingAccountService.cs",
-              "RelativeToolTip": "Services\\CheckingAccountService.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAEAqwGAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T20:57:20.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "SavingsAccountService.cs",
-              "DocumentMoniker": "F:\\Coding Projects\\Practice c#\\Inheritance-BankAccount-Practice\\Services\\SavingsAccountService.cs",
+              "DocumentMoniker": "F:\\Github Projects\\Inheritance-BankAccount-Practice\\Services\\SavingsAccountService.cs",
               "RelativeDocumentMoniker": "Services\\SavingsAccountService.cs",
-              "ToolTip": "F:\\Coding Projects\\Practice c#\\Inheritance-BankAccount-Practice\\Services\\SavingsAccountService.cs",
+              "ToolTip": "F:\\Github Projects\\Inheritance-BankAccount-Practice\\Services\\SavingsAccountService.cs",
               "RelativeToolTip": "Services\\SavingsAccountService.cs",
-              "ViewState": "AgIAACsAAADgmZmZmRkvwEoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T20:57:30.37Z"
+              "WhenOpened": "2026-01-05T20:57:30.37Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "InvestmentAccountService.cs",
-              "DocumentMoniker": "F:\\Coding Projects\\Practice c#\\Inheritance-BankAccount-Practice\\Services\\InvestmentAccountService.cs",
+              "DocumentMoniker": "F:\\Github Projects\\Inheritance-BankAccount-Practice\\Services\\InvestmentAccountService.cs",
               "RelativeDocumentMoniker": "Services\\InvestmentAccountService.cs",
-              "ToolTip": "F:\\Coding Projects\\Practice c#\\Inheritance-BankAccount-Practice\\Services\\InvestmentAccountService.cs",
+              "ToolTip": "F:\\Github Projects\\Inheritance-BankAccount-Practice\\Services\\InvestmentAccountService.cs",
               "RelativeToolTip": "Services\\InvestmentAccountService.cs",
               "ViewState": "AgIAADMAAABAmpmZmRkiwEYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,15 +157,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Coding Projects\\Practice c#\\Inheritance-BankAccount-Practice\\Program.cs",
+              "DocumentMoniker": "F:\\Github Projects\\Inheritance-BankAccount-Practice\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\Coding Projects\\Practice c#\\Inheritance-BankAccount-Practice\\Program.cs",
+              "ToolTip": "F:\\Github Projects\\Inheritance-BankAccount-Practice\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowB0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T02:15:14.054Z"
+              "WhenOpened": "2026-01-06T02:15:14.054Z",
+              "EditorCaption": ""
             }
           ]
         }

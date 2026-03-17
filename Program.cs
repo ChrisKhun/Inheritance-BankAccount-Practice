@@ -20,11 +20,14 @@ builder.Services.AddScoped<SavingsAccountService>();
 builder.Services.AddScoped<InvestmentAccountService>();
 
 
+builder.Services.AddScoped<MondayServiceAPI>();
+
+
 using var host = builder.Build();
 
 var app = host.Services.GetRequiredService<App>();
 
-app.Run();
+await app.Run();
 
 
 

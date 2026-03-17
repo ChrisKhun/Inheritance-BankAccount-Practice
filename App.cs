@@ -15,13 +15,15 @@ namespace Inheritanace_BankAccount
         private readonly CheckingAccountService _cas;
         private readonly SavingsAccountService _sas;
         private readonly InvestmentAccountService _ias;
+        private readonly MondayServiceAPI _msa;
 
-        public App(BankContext db, CheckingAccountService cas, SavingsAccountService sas, InvestmentAccountService ias)
+        public App(BankContext db, CheckingAccountService cas, SavingsAccountService sas, InvestmentAccountService ias, MondayServiceAPI msa)
         {
             _db = db;
             this._cas = cas;
             this._sas = sas;
             this._ias = ias;
+            this._msa = msa;
         }
         public void CreateAccount(string name, decimal deposit, int pin)
         {
@@ -99,7 +101,7 @@ namespace Inheritanace_BankAccount
 
         }
 
-        public void Run()
+        public async Task Run()
         {
             // add logic here to interact with program.
 
@@ -111,9 +113,19 @@ namespace Inheritanace_BankAccount
 
             //DeleteAccount(4, 2912);
 
-            ExportCheckingAccount(5, 2234);
 
-            Console.WriteLine("Checking Accounts:");
+            await _msa.LogTransactionAsync();
+
+
+
+            //await _msa.LogNewAccountAsync("Chris", 1000m);
+            //await _msa.LogTransactionAsync("Chris", 500m, "Deposit", 1500m);
+            //await _msa.LogDeletedAccountAsync("Chris");
+
+
+            //ExportCheckingAccount(5, 2234);
+
+            //Console.WriteLine("Checking Accounts:");
 
             foreach (var a in _db.CheckingAccounts.ToList())
             {
