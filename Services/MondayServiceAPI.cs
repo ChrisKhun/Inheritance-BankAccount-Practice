@@ -33,22 +33,34 @@ namespace Inheritanace_BankAccount.Services
             _http.DefaultRequestHeaders.Add("API-Version", "2026-01");
         }
 
-        public async Task LogTransactionAsync() 
-        { // log every transaction and transfer
+        public async Task LogTransactionAsync(string TransactionType, string AccountName, int AccountId, decimal TransactionAmount)
+        {
+            // Build column_values as a dictionary and serialize it 
+            var columnValues = new Dictionary<string, string>
+            {
+                { "text_mm1jtm3y", AccountName },
+                { "text_mm1jzra7", AccountId.ToString() },
+                { "text_mm1jvpps", TransactionAmount.ToString("F2") }
+            };
+
+            string columnValuesJson = JsonSerializer.Serialize(columnValues);
+
+            // creates item & uses dictionary to add info to item
             var mutation = $@"mutation {{
                 create_item (
-                    board_id: {_boardId},
-                    item_name: ""Test Item""
+                    board_id: {_boardId}
+                    item_name: ""{TransactionType}""
+                    column_values: {JsonSerializer.Serialize(columnValuesJson)}
                 ) {{
                     id
                 }}
             }}";
+
             var payload = JsonSerializer.Serialize(new { query = mutation });
             var response = await _http.PostAsync("https://api.monday.com/v2",
                 new StringContent(payload, Encoding.UTF8, "application/json"));
 
             var json = await response.Content.ReadAsStringAsync();
-            Console.WriteLine(json);
         }
 
         public async Task LogNewAccountAsync(string accountName, decimal initialDeposit)

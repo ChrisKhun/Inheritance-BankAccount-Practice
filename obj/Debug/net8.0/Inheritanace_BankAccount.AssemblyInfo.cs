@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Inheritanace_BankAccount")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04458f74cceb5616448869f6291424387313bf80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+900439340236e6937c04144bcfd79fa81c4714a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Inheritanace_BankAccount")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Inheritanace_BankAccount")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

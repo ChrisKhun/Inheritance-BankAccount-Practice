@@ -61,7 +61,7 @@ namespace Inheritanace_BankAccount
             };
 
             CheckingAccount? account =
-                JsonSerializer.Deserialize<CheckingAccount>(json, options);
+                JsonSerializer.Deserialize<CheckingAccount>(json, options); // adds checking account from file to dataahase
 
             return account;
         }
@@ -111,12 +111,13 @@ namespace Inheritanace_BankAccount
 
             //CreateAccount("Brad", 1321.32m, 2912);
 
-            //DeleteAccount(4, 2912);
+            //DeleteAccount(1, 2912);
 
 
-            await _msa.LogTransactionAsync();
+            await _msa.LogTransactionAsync("DEPOSIT", "Chris", 1, 13.23m);
 
-
+            // INSTEAD OF calling logtransaction create a Deposit/withdrawal function in this app.cs have user
+               // select what account they're depositing to so i can log and make transaction in one function call here.
 
             //await _msa.LogNewAccountAsync("Chris", 1000m);
             //await _msa.LogTransactionAsync("Chris", 500m, "Deposit", 1500m);
